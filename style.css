@@ -391,10 +391,149 @@ background-size: 100%;
 }
 .textblock{
   position: block;
-width: 300px;
-height: 240px;
+width: 250px;
+height: 50px;
 left: 1000px;
 top: 0px;
+border: 2px solid rgb(208, 207, 207);
+border-top: none;
 }
 
-
+.one{
+  position: block;
+  width:300px ;
+}
+.onetext{
+  padding-left: 10px;
+  padding-top: 10px;
+  color: #B9B9B9;
+  font-size: 17px;
+}
+.lowtext1{
+  padding-left: 10px;
+  margin-top: 2px;
+  color: #E8603C;
+  font-size: 13px;
+}
+.photo1{
+  position: block;
+  width: 250px;
+  height: 200px;
+  left: 20px;
+  top: 0px;
+  background-image: url('./img/one.png');
+  background-size: 100%;
+  
+  }
+.two{
+  position: absolute;
+  width:350px;
+  height: 240px;
+  left: 273px;
+  top: 0px;
+  
+}
+.photo2{
+  position: block;
+  width: 250px;
+  height: 200px;
+  left: 20px;
+  top: 0px;
+  background-image: url('./img/2.png');
+  background-size: 100%;
+}
+.textblock2{
+  position: block;
+width: 250px;
+height: 50px;
+left: 1000px;
+top: 0px;
+border: 2px solid rgb(208, 207, 207);
+border-top: none;
+}
+.textblock2 h2{
+  padding-left: 10px;
+  padding-top: 10px;
+  color: #B9B9B9;
+  font-size: 17px;
+}
+.textblock2 h3{
+  padding-left: 10px;
+  margin-top: 2px;
+  color: #E8603C;
+  font-size: 13px;
+}
+.tree{
+  position: absolute;
+  width:350px;
+  height: 240px;
+  left: 550px;
+  top: 0px;
+}
+.photo3{
+  position: block;
+  width: 250px;
+  height: 200px;
+  left: 20px;
+  top: 0px;
+  background-image: url('./img/3.png');
+  background-size: 100%;
+}
+.textblock3{
+  position: block;
+  width: 250px;
+  height: 50px;
+  left: 1000px;
+  top: 0px;
+  border: 2px solid rgb(208, 207, 207);
+  border-top: none;
+}
+.textblock3 h2{
+  padding-left: 10px;
+  padding-top: 10px;
+  color: #B9B9B9;
+  font-size: 17px;
+}
+.textblock3 h3{
+  padding-left: 10px;
+  margin-top: 2px;
+  color: #E8603C;
+  font-size: 13px;
+}
+.four{
+  position: absolute;
+  width:350px;
+  height: 240px;
+  left: 820px;
+  top: 0px;
+}
+.photo4{
+  position: block;
+  width: 250px;
+  height: 200px;
+  left: 20px;
+  top: 0px;
+  background-image: url('./img/4.png');
+  background-size: 100%;
+}
+.textblock4{
+  position: block;
+  width: 250px;
+  height: 50px;
+  left: 1000px;
+  top: 0px;
+  border: 2px solid rgb(208, 207, 207);
+  border-top: none;
+}
+.textblock4 h2{
+  padding-left: 10px;
+  padding-top: 10px;
+  color: #B9B9B9;
+  font-size: 17px;
+}
+.textblock4 h3{
+  padding-left: 10px;
+  margin-top: 2px;
+  color: #E8603C;
+  font-size: 13px;
+}
